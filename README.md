@@ -76,7 +76,8 @@ Once uploaded, the system will:
 - If you encounter Wi-Fi issues, verify the network credentials and signal strength.
 
   ## This is how the project looks at the end
-  ![WhatsApp Image 2024-11-24 at 22 30 28_61c684d2](https://github.com/user-attachments/assets/2cd084fb-324f-4db7-951b-060682c5ffde)
+  ![WhatsApp Image 2024-11-24 at 22 29 39_c711e282](https://github.com/user-attachments/assets/9ea60fdf-b37d-40af-b703-688e758fc650)
+
   ![WhatsApp Image 2024-11-24 at 22 59 37](https://github.com/user-attachments/assets/68a4626c-a839-4eb2-8dbf-4e10bf303ff7)
 
   
